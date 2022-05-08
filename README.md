@@ -1,8 +1,17 @@
-### Hello I'm Majeed Alberawi! 👋
+<h2 align="center">Hello I'm Majeed Alberawi! 👋</h3>
 
+#### About Me:-
 - 🔭 I’m currently working on FindMe.studio Wesite
 - 🌱 I’m currently learning JavaScript
-- 📫 How to reach me: [instagram - @majeed_alberawi](https://www.instagram.com/majeed_alberawi/) .
+- 📫 How to reach me: **[instagram - @majeed_alberawi](https://www.instagram.com/majeed_alberawi/)** .
+
+#### Languages & Tools:-
+<p align="center">
+  <img src="https://www.svgrepo.com/show/353884/html-5.svg" width="50px">
+  <img src="https://www.svgrepo.com/show/353623/css-3.svg" width="50px">
+  <img src="https://www.svgrepo.com/show/374068/scss.svg" width="50px">
+  <img src="https://www.svgrepo.com/show/303206/javascript-logo.svg" width="50px">
+</p>
 
 <!--
 **Majeed-Alberawi/Majeed-Alberawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

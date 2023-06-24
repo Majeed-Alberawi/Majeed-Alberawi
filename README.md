@@ -11,6 +11,7 @@
   <img src="https://www.svgrepo.com/show/353623/css-3.svg" width="50px">
   <img src="https://www.svgrepo.com/show/374068/scss.svg" width="50px">
   <img src="https://www.svgrepo.com/show/303206/javascript-logo.svg" width="50px">
+  <img src="https://www.svgrepo.com/show/452234/java.svg" width="50px">
 </p>
 
 <!--

@@ -1,8 +1,8 @@
 <h2 align="center">Hello I'm Majeed Alberawi! 👋</h3>
 
 #### About Me:-
-- 🔭 I’m currently working on FindMe.studio Wesite
-- 🌱 I’m currently learning JavaScript
+- 🔭 I’m currently working on FindMe.studio Website
+- 🌱 I’m currently learning JavaScript & React
 - 📫 How to reach me: **[instagram - @majeed_alberawi](https://www.instagram.com/majeed_alberawi/)** .
 
 #### Languages & Tools:-
@@ -12,6 +12,9 @@
   <img src="https://www.svgrepo.com/show/374068/scss.svg" width="50px">
   <img src="https://www.svgrepo.com/show/303206/javascript-logo.svg" width="50px">
   <img src="https://www.svgrepo.com/show/452234/java.svg" width="50px">
+  <img src="https://www.svgrepo.com/show/452092/react.svg" width="50px">
+  
+  
 </p>
 
 <!--

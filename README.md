@@ -1,7 +1,8 @@
 <h2 align="center">Hello I'm Majeed Alberawi! 👋</h3>
 
 #### About Me:-
-- 🔭 I’m currently working on FindMe.studio Website
+<!-- - 🔭 I’m currently working on FindMe.studio Website -->
+- 🔭 I’m currently studying Tailwind
 - 🌱 I’m currently learning JavaScript & React
 - 📫 How to reach me: **[instagram - @majeed_alberawi](https://www.instagram.com/majeed_alberawi/)** .
 

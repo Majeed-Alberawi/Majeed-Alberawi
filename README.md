@@ -14,7 +14,7 @@
   <img src="https://www.svgrepo.com/show/303206/javascript-logo.svg" width="50px">
   <img src="https://www.svgrepo.com/show/452234/java.svg" width="50px">
   <img src="https://www.svgrepo.com/show/452092/react.svg" width="50px">
-  
+  <img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" width="50px">
   
 </p>
 

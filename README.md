@@ -2,8 +2,8 @@
 
 #### About Me:-
 <!-- - 🔭 I’m currently working on FindMe.studio Website -->
-- 🔭 I’m currently studying Tailwind
-- 🌱 I’m currently learning JavaScript & React
+- 🌱 I’m currently learning JavaScript & React with Tailwind.
+- 🥅 My goal now is to become a full-stack developer.
 - 📫 How to reach me: **[instagram - @majeed_alberawi](https://www.instagram.com/majeed_alberawi/)** .
 
 #### Languages & Tools:-
@@ -15,7 +15,6 @@
   <img src="https://www.svgrepo.com/show/452234/java.svg" width="50px">
   <img src="https://www.svgrepo.com/show/452092/react.svg" width="50px">
   <img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" width="50px">
-  
 </p>
 
 <!--

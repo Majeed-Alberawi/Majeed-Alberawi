@@ -4,7 +4,7 @@
 <!-- - 🔭 I’m currently working on FindMe.studio Website -->
 - 🌱 I’m currently learning JavaScript & React with Tailwind.
 - 🥅 My goal now is to become a full-stack developer.
-- 📫 How to reach me: **[instagram - @majeed_alberawi](https://www.instagram.com/majeed_alberawi/)** .
+- 📫 How to reach me: **[Linkedin - Majeed Al-berawi](https://tr.linkedin.com/in/majeed-al-berawi-41a29b1b3)** .
 
 #### Languages & Tools:-
 <p align="center">

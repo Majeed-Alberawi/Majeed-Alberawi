@@ -15,6 +15,9 @@
   <img src="https://www.svgrepo.com/show/452234/java.svg" width="50px">
   <img src="https://www.svgrepo.com/show/452092/react.svg" width="50px">
   <img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" width="50px">
+  <img src="https://www.svgrepo.com/show/303557/redux-logo.svg" width="50px">
+  <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" width="50px">
+  <img src="https://www.svgrepo.com/show/354238/python.svg" width="50px">
 </p>
 
 <!--
